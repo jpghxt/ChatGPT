@@ -18,6 +18,3 @@ export const WHITELISTED_IPS = [
 export let OPENAI_KEYS = [
     "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",
 ];
-
-cd ChatGPT
-npm install
